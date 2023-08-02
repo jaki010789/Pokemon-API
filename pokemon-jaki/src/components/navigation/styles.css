@@ -1,0 +1,16 @@
+nav {
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    padding-left:100px;
+    align-items: center;
+    background: #333333;  
+    background: -webkit-linear-gradient(to right, #dd1818, #333333);  
+    background: linear-gradient(to right, #dd1818, #333333); 
+    
+  }
+  
+  .navbar-image {
+    width: 0px;
+   padding-right: 40px;
+  }

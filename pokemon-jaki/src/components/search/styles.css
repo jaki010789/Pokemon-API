@@ -1,0 +1,32 @@
+.searchbar-container {
+    display: flex;
+    margin: 0px 10px;
+    padding: 0;
+    align-items: center;
+    flex: 1;
+    align-items: stretch;
+  }
+  
+  .searchbar {
+   
+    padding-right: 10px;
+    flex: 1;
+  }
+  
+  .searchbar input {
+    padding: 10px;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+    border: none;
+    width: 40%;
+  }
+
+  .buscar-btn {
+    background-color: #b31bd5;
+    border: none;
+    border-radius: 4px;
+    height: 110%;
+    margin-left: 10px;
+    width: 305;
+  }
+  
